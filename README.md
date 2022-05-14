@@ -23,5 +23,5 @@ Hi, I'm Garvit Joshi, A Student and Learner 🚀 from Uttarakhand India, current
  <br>
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -https://twitter.com/garvitjoshi46
  <br>
- ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)- mailto: garvitjoshi46@gamil.com
+ ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)- mailto: garvitjoshi46@gmail.com
  
